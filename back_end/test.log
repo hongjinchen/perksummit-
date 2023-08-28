@@ -1,0 +1,749 @@
+2023-06-22 11:18:24,766 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.65.130.253:5000
+2023-06-22 11:18:24,766 - INFO - [33mPress CTRL+C to quit[0m
+2023-06-22 11:18:24,767 - INFO -  * Restarting with stat
+2023-06-22 11:18:25,348 - WARNING -  * Debugger is active!
+2023-06-22 11:18:25,348 - INFO -  * Debugger PIN: 169-584-696
+2023-06-22 14:28:20,251 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.65.130.253:5000
+2023-06-22 14:28:20,251 - INFO - [33mPress CTRL+C to quit[0m
+2023-06-22 14:28:20,256 - INFO -  * Restarting with stat
+2023-06-22 14:28:20,833 - WARNING -  * Debugger is active!
+2023-06-22 14:28:20,838 - INFO -  * Debugger PIN: 169-584-696
+2023-06-22 20:32:20,426 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.65.130.253:5000
+2023-06-22 20:32:20,426 - INFO - [33mPress CTRL+C to quit[0m
+2023-06-22 20:32:20,427 - INFO -  * Restarting with stat
+2023-06-22 20:32:21,063 - WARNING -  * Debugger is active!
+2023-06-22 20:32:21,070 - INFO -  * Debugger PIN: 169-584-696
+2023-06-22 20:33:14,552 - INFO - 127.0.0.1 - - [22/Jun/2023 20:33:14] "OPTIONS /login HTTP/1.1" 200 -
+2023-06-22 20:33:14,989 - INFO - 127.0.0.1 - - [22/Jun/2023 20:33:14] "POST /login HTTP/1.1" 200 -
+2023-06-22 20:33:15,043 - INFO - 127.0.0.1 - - [22/Jun/2023 20:33:15] "OPTIONS /getUserTeams/6 HTTP/1.1" 200 -
+2023-06-22 20:33:15,359 - INFO - 127.0.0.1 - - [22/Jun/2023 20:33:15] "OPTIONS /getUserTeams/6 HTTP/1.1" 200 -
+2023-06-22 20:33:15,391 - INFO - 127.0.0.1 - - [22/Jun/2023 20:33:15] "GET /getUserTeams/6 HTTP/1.1" 200 -
+2023-06-22 20:33:15,701 - INFO - 127.0.0.1 - - [22/Jun/2023 20:33:15] "GET /getUserTeams/6 HTTP/1.1" 200 -
+2023-06-22 20:33:19,734 - INFO - 127.0.0.1 - - [22/Jun/2023 20:33:19] "GET /getTeamMembers/1 HTTP/1.1" 200 -
+2023-06-22 20:33:19,747 - INFO - 127.0.0.1 - - [22/Jun/2023 20:33:19] "GET /tasklists/1 HTTP/1.1" 200 -
+2023-06-22 20:33:19,990 - INFO - 127.0.0.1 - - [22/Jun/2023 20:33:19] "GET /getTeamMembers/1 HTTP/1.1" 200 -
+2023-06-22 20:33:20,053 - INFO - 127.0.0.1 - - [22/Jun/2023 20:33:20] "GET /tasklists/1 HTTP/1.1" 200 -
+2023-06-22 20:33:20,989 - INFO - 127.0.0.1 - - [22/Jun/2023 20:33:20] "GET /getTeamScript/1 HTTP/1.1" 200 -
+2023-06-22 20:33:21,298 - INFO - 127.0.0.1 - - [22/Jun/2023 20:33:21] "GET /getTeamScript/1 HTTP/1.1" 200 -
+2023-06-22 20:33:21,324 - INFO - 127.0.0.1 - - [22/Jun/2023 20:33:21] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-22 20:33:21,324 - INFO - 127.0.0.1 - - [22/Jun/2023 20:33:21] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-22 20:33:21,325 - INFO - 127.0.0.1 - - [22/Jun/2023 20:33:21] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-22 20:33:21,327 - INFO - 127.0.0.1 - - [22/Jun/2023 20:33:21] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-22 20:33:21,327 - INFO - 127.0.0.1 - - [22/Jun/2023 20:33:21] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-22 20:33:21,341 - INFO - 127.0.0.1 - - [22/Jun/2023 20:33:21] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-22 20:33:21,616 - INFO - 127.0.0.1 - - [22/Jun/2023 20:33:21] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-22 20:33:21,634 - INFO - 127.0.0.1 - - [22/Jun/2023 20:33:21] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-22 20:33:21,634 - INFO - 127.0.0.1 - - [22/Jun/2023 20:33:21] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-22 20:33:21,635 - INFO - 127.0.0.1 - - [22/Jun/2023 20:33:21] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-22 20:33:21,635 - INFO - 127.0.0.1 - - [22/Jun/2023 20:33:21] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-22 20:33:21,642 - INFO - 127.0.0.1 - - [22/Jun/2023 20:33:21] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-22 20:33:21,644 - INFO - 127.0.0.1 - - [22/Jun/2023 20:33:21] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-22 20:33:21,645 - INFO - 127.0.0.1 - - [22/Jun/2023 20:33:21] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-22 20:33:21,646 - INFO - 127.0.0.1 - - [22/Jun/2023 20:33:21] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-22 20:33:21,931 - INFO - 127.0.0.1 - - [22/Jun/2023 20:33:21] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-22 20:33:21,946 - INFO - 127.0.0.1 - - [22/Jun/2023 20:33:21] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-22 20:33:21,951 - INFO - 127.0.0.1 - - [22/Jun/2023 20:33:21] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-22 20:33:21,951 - INFO - 127.0.0.1 - - [22/Jun/2023 20:33:21] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-22 20:33:21,952 - INFO - 127.0.0.1 - - [22/Jun/2023 20:33:21] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-25 14:42:13,886 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.65.130.253:5000
+2023-06-25 14:42:13,886 - INFO - [33mPress CTRL+C to quit[0m
+2023-06-25 14:42:13,888 - INFO -  * Restarting with stat
+2023-06-25 14:42:16,442 - WARNING -  * Debugger is active!
+2023-06-25 14:42:16,448 - INFO -  * Debugger PIN: 169-584-696
+2023-06-25 16:07:25,191 - INFO - 127.0.0.1 - - [25/Jun/2023 16:07:25] "OPTIONS /login HTTP/1.1" 200 -
+2023-06-25 16:07:25,646 - INFO - 127.0.0.1 - - [25/Jun/2023 16:07:25] "POST /login HTTP/1.1" 200 -
+2023-06-25 16:07:25,737 - INFO - 127.0.0.1 - - [25/Jun/2023 16:07:25] "OPTIONS /getUserTeams/6 HTTP/1.1" 200 -
+2023-06-25 16:07:26,039 - INFO - 127.0.0.1 - - [25/Jun/2023 16:07:26] "OPTIONS /getUserTeams/6 HTTP/1.1" 200 -
+2023-06-25 16:07:26,054 - INFO - 127.0.0.1 - - [25/Jun/2023 16:07:26] "GET /getUserTeams/6 HTTP/1.1" 200 -
+2023-06-25 16:07:26,369 - INFO - 127.0.0.1 - - [25/Jun/2023 16:07:26] "GET /getUserTeams/6 HTTP/1.1" 200 -
+2023-06-25 16:08:52,394 - INFO - 127.0.0.1 - - [25/Jun/2023 16:08:52] "GET /tasklists/1 HTTP/1.1" 200 -
+2023-06-25 16:08:52,396 - INFO - 127.0.0.1 - - [25/Jun/2023 16:08:52] "GET /getTeamMembers/1 HTTP/1.1" 200 -
+2023-06-25 16:08:52,650 - INFO - 127.0.0.1 - - [25/Jun/2023 16:08:52] "GET /tasklists/1 HTTP/1.1" 200 -
+2023-06-25 16:08:52,712 - INFO - 127.0.0.1 - - [25/Jun/2023 16:08:52] "GET /getTeamMembers/1 HTTP/1.1" 200 -
+2023-06-25 16:08:54,016 - INFO - 127.0.0.1 - - [25/Jun/2023 16:08:54] "GET /tasklists/1 HTTP/1.1" 200 -
+2023-06-25 16:08:54,329 - INFO - 127.0.0.1 - - [25/Jun/2023 16:08:54] "GET /tasklists/1 HTTP/1.1" 200 -
+2023-06-25 16:08:55,490 - INFO - 127.0.0.1 - - [25/Jun/2023 16:08:55] "GET /getTeamScript/1 HTTP/1.1" 200 -
+2023-06-25 16:08:55,760 - INFO - 127.0.0.1 - - [25/Jun/2023 16:08:55] "GET /getTeamScript/1 HTTP/1.1" 200 -
+2023-06-25 16:08:55,801 - INFO - 127.0.0.1 - - [25/Jun/2023 16:08:55] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-25 16:08:55,817 - INFO - 127.0.0.1 - - [25/Jun/2023 16:08:55] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-25 16:08:55,817 - INFO - 127.0.0.1 - - [25/Jun/2023 16:08:55] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-25 16:08:55,819 - INFO - 127.0.0.1 - - [25/Jun/2023 16:08:55] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-25 16:08:55,819 - INFO - 127.0.0.1 - - [25/Jun/2023 16:08:55] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-25 16:08:56,068 - INFO - 127.0.0.1 - - [25/Jun/2023 16:08:56] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-25 16:08:56,113 - INFO - 127.0.0.1 - - [25/Jun/2023 16:08:56] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-25 16:08:56,124 - INFO - 127.0.0.1 - - [25/Jun/2023 16:08:56] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-25 16:08:56,128 - INFO - 127.0.0.1 - - [25/Jun/2023 16:08:56] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-25 16:08:56,128 - INFO - 127.0.0.1 - - [25/Jun/2023 16:08:56] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-25 16:08:56,129 - INFO - 127.0.0.1 - - [25/Jun/2023 16:08:56] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-25 16:08:56,135 - INFO - 127.0.0.1 - - [25/Jun/2023 16:08:56] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-25 16:08:56,135 - INFO - 127.0.0.1 - - [25/Jun/2023 16:08:56] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-25 16:08:56,136 - INFO - 127.0.0.1 - - [25/Jun/2023 16:08:56] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-25 16:08:56,137 - INFO - 127.0.0.1 - - [25/Jun/2023 16:08:56] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-25 16:08:56,379 - INFO - 127.0.0.1 - - [25/Jun/2023 16:08:56] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-25 16:08:56,442 - INFO - 127.0.0.1 - - [25/Jun/2023 16:08:56] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-25 16:08:56,444 - INFO - 127.0.0.1 - - [25/Jun/2023 16:08:56] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-25 16:08:56,444 - INFO - 127.0.0.1 - - [25/Jun/2023 16:08:56] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-25 16:08:56,445 - INFO - 127.0.0.1 - - [25/Jun/2023 16:08:56] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-26 15:08:46,155 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.65.130.253:5000
+2023-06-26 15:08:46,155 - INFO - [33mPress CTRL+C to quit[0m
+2023-06-26 15:08:46,157 - INFO -  * Restarting with stat
+2023-06-26 15:08:46,884 - WARNING -  * Debugger is active!
+2023-06-26 15:08:46,887 - INFO -  * Debugger PIN: 830-819-996
+2023-06-27 01:26:38,710 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.65.130.253:5000
+2023-06-27 01:26:38,711 - INFO - [33mPress CTRL+C to quit[0m
+2023-06-27 01:26:38,713 - INFO -  * Restarting with stat
+2023-06-27 01:26:39,682 - WARNING -  * Debugger is active!
+2023-06-27 01:26:39,686 - INFO -  * Debugger PIN: 830-819-996
+2023-06-27 01:27:26,508 - INFO - 127.0.0.1 - - [27/Jun/2023 01:27:26] "OPTIONS /login HTTP/1.1" 200 -
+2023-06-27 01:27:26,994 - INFO - 127.0.0.1 - - [27/Jun/2023 01:27:26] "POST /login HTTP/1.1" 200 -
+2023-06-27 01:27:27,088 - INFO - 127.0.0.1 - - [27/Jun/2023 01:27:27] "OPTIONS /getUserTeams/6 HTTP/1.1" 200 -
+2023-06-27 01:27:27,389 - INFO - 127.0.0.1 - - [27/Jun/2023 01:27:27] "OPTIONS /getUserTeams/6 HTTP/1.1" 200 -
+2023-06-27 01:27:27,425 - INFO - 127.0.0.1 - - [27/Jun/2023 01:27:27] "GET /getUserTeams/6 HTTP/1.1" 200 -
+2023-06-27 01:27:27,738 - INFO - 127.0.0.1 - - [27/Jun/2023 01:27:27] "GET /getUserTeams/6 HTTP/1.1" 200 -
+2023-06-27 01:27:28,777 - INFO - 127.0.0.1 - - [27/Jun/2023 01:27:28] "GET /getTeamMembers/1 HTTP/1.1" 200 -
+2023-06-27 01:27:28,794 - INFO - 127.0.0.1 - - [27/Jun/2023 01:27:28] "GET /tasklists/1 HTTP/1.1" 200 -
+2023-06-27 01:27:29,033 - INFO - 127.0.0.1 - - [27/Jun/2023 01:27:29] "GET /getTeamMembers/1 HTTP/1.1" 200 -
+2023-06-27 01:27:29,090 - INFO - 127.0.0.1 - - [27/Jun/2023 01:27:29] "GET /tasklists/1 HTTP/1.1" 200 -
+2023-06-27 01:27:30,272 - INFO - 127.0.0.1 - - [27/Jun/2023 01:27:30] "GET /getTeamScript/1 HTTP/1.1" 200 -
+2023-06-27 01:27:30,581 - INFO - 127.0.0.1 - - [27/Jun/2023 01:27:30] "GET /getTeamScript/1 HTTP/1.1" 200 -
+2023-06-27 01:27:30,621 - INFO - 127.0.0.1 - - [27/Jun/2023 01:27:30] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-27 01:27:30,622 - INFO - 127.0.0.1 - - [27/Jun/2023 01:27:30] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-27 01:27:30,636 - INFO - 127.0.0.1 - - [27/Jun/2023 01:27:30] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-27 01:27:30,638 - INFO - 127.0.0.1 - - [27/Jun/2023 01:27:30] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-27 01:27:30,639 - INFO - 127.0.0.1 - - [27/Jun/2023 01:27:30] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-27 01:27:30,643 - INFO - 127.0.0.1 - - [27/Jun/2023 01:27:30] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-27 01:27:30,889 - INFO - 127.0.0.1 - - [27/Jun/2023 01:27:30] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-27 01:27:30,939 - INFO - 127.0.0.1 - - [27/Jun/2023 01:27:30] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-27 01:27:30,940 - INFO - 127.0.0.1 - - [27/Jun/2023 01:27:30] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-27 01:27:30,944 - INFO - 127.0.0.1 - - [27/Jun/2023 01:27:30] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-27 01:27:30,946 - INFO - 127.0.0.1 - - [27/Jun/2023 01:27:30] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-27 01:27:30,948 - INFO - 127.0.0.1 - - [27/Jun/2023 01:27:30] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-27 01:27:30,954 - INFO - 127.0.0.1 - - [27/Jun/2023 01:27:30] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-27 01:27:30,956 - INFO - 127.0.0.1 - - [27/Jun/2023 01:27:30] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-27 01:27:30,959 - INFO - 127.0.0.1 - - [27/Jun/2023 01:27:30] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-27 01:27:31,213 - INFO - 127.0.0.1 - - [27/Jun/2023 01:27:31] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-27 01:27:31,259 - INFO - 127.0.0.1 - - [27/Jun/2023 01:27:31] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-27 01:27:31,259 - INFO - 127.0.0.1 - - [27/Jun/2023 01:27:31] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-27 01:27:31,264 - INFO - 127.0.0.1 - - [27/Jun/2023 01:27:31] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-27 01:27:31,264 - INFO - 127.0.0.1 - - [27/Jun/2023 01:27:31] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:23:51,354 - INFO - 127.0.0.1 - - [27/Jun/2023 02:23:51] "GET /getTeamScript/1 HTTP/1.1" 200 -
+2023-06-27 02:23:51,561 - INFO - 127.0.0.1 - - [27/Jun/2023 02:23:51] "GET /getTeamScript/1 HTTP/1.1" 200 -
+2023-06-27 02:23:51,668 - INFO - 127.0.0.1 - - [27/Jun/2023 02:23:51] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:23:51,763 - INFO - 127.0.0.1 - - [27/Jun/2023 02:23:51] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:23:51,764 - INFO - 127.0.0.1 - - [27/Jun/2023 02:23:51] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:23:51,766 - INFO - 127.0.0.1 - - [27/Jun/2023 02:23:51] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:23:51,767 - INFO - 127.0.0.1 - - [27/Jun/2023 02:23:51] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:23:51,867 - INFO - 127.0.0.1 - - [27/Jun/2023 02:23:51] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:23:51,974 - INFO - 127.0.0.1 - - [27/Jun/2023 02:23:51] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:23:51,983 - INFO - 127.0.0.1 - - [27/Jun/2023 02:23:51] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:23:52,084 - INFO - 127.0.0.1 - - [27/Jun/2023 02:23:52] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:23:52,084 - INFO - 127.0.0.1 - - [27/Jun/2023 02:23:52] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:23:52,084 - INFO - 127.0.0.1 - - [27/Jun/2023 02:23:52] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:23:52,093 - INFO - 127.0.0.1 - - [27/Jun/2023 02:23:52] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:23:52,096 - INFO - 127.0.0.1 - - [27/Jun/2023 02:23:52] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:23:52,097 - INFO - 127.0.0.1 - - [27/Jun/2023 02:23:52] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:23:52,099 - INFO - 127.0.0.1 - - [27/Jun/2023 02:23:52] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:23:52,182 - INFO - 127.0.0.1 - - [27/Jun/2023 02:23:52] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:23:52,301 - INFO - 127.0.0.1 - - [27/Jun/2023 02:23:52] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:23:52,401 - INFO - 127.0.0.1 - - [27/Jun/2023 02:23:52] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:23:52,406 - INFO - 127.0.0.1 - - [27/Jun/2023 02:23:52] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:23:52,406 - INFO - 127.0.0.1 - - [27/Jun/2023 02:23:52] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:23:52,476 - INFO - 127.0.0.1 - - [27/Jun/2023 02:23:52] "GET /tasklists/1 HTTP/1.1" 200 -
+2023-06-27 02:23:52,723 - INFO - 127.0.0.1 - - [27/Jun/2023 02:23:52] "GET /tasklists/1 HTTP/1.1" 200 -
+2023-06-27 02:24:27,751 - INFO - 127.0.0.1 - - [27/Jun/2023 02:24:27] "GET /tasklists/1 HTTP/1.1" 200 -
+2023-06-27 02:24:31,053 - INFO - 127.0.0.1 - - [27/Jun/2023 02:24:31] "GET /getTeamScript/1 HTTP/1.1" 200 -
+2023-06-27 02:24:31,316 - INFO - 127.0.0.1 - - [27/Jun/2023 02:24:31] "GET /getTeamScript/1 HTTP/1.1" 200 -
+2023-06-27 02:24:31,370 - INFO - 127.0.0.1 - - [27/Jun/2023 02:24:31] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:24:31,377 - INFO - 127.0.0.1 - - [27/Jun/2023 02:24:31] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:24:31,386 - INFO - 127.0.0.1 - - [27/Jun/2023 02:24:31] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:24:31,387 - INFO - 127.0.0.1 - - [27/Jun/2023 02:24:31] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:24:31,388 - INFO - 127.0.0.1 - - [27/Jun/2023 02:24:31] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:24:31,389 - INFO - 127.0.0.1 - - [27/Jun/2023 02:24:31] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:24:31,623 - INFO - 127.0.0.1 - - [27/Jun/2023 02:24:31] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:24:31,684 - INFO - 127.0.0.1 - - [27/Jun/2023 02:24:31] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:24:31,702 - INFO - 127.0.0.1 - - [27/Jun/2023 02:24:31] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:24:31,703 - INFO - 127.0.0.1 - - [27/Jun/2023 02:24:31] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:24:31,704 - INFO - 127.0.0.1 - - [27/Jun/2023 02:24:31] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:24:31,712 - INFO - 127.0.0.1 - - [27/Jun/2023 02:24:31] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:24:31,712 - INFO - 127.0.0.1 - - [27/Jun/2023 02:24:31] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:24:31,712 - INFO - 127.0.0.1 - - [27/Jun/2023 02:24:31] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:24:31,718 - INFO - 127.0.0.1 - - [27/Jun/2023 02:24:31] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:24:31,932 - INFO - 127.0.0.1 - - [27/Jun/2023 02:24:31] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:24:31,955 - INFO - 127.0.0.1 - - [27/Jun/2023 02:24:31] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:24:32,027 - INFO - 127.0.0.1 - - [27/Jun/2023 02:24:32] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:24:32,027 - INFO - 127.0.0.1 - - [27/Jun/2023 02:24:32] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:24:32,028 - INFO - 127.0.0.1 - - [27/Jun/2023 02:24:32] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:24:36,855 - INFO - 127.0.0.1 - - [27/Jun/2023 02:24:36] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:24:36,858 - INFO - 127.0.0.1 - - [27/Jun/2023 02:24:36] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:24:36,858 - INFO - 127.0.0.1 - - [27/Jun/2023 02:24:36] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:24:36,859 - INFO - 127.0.0.1 - - [27/Jun/2023 02:24:36] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:24:36,860 - INFO - 127.0.0.1 - - [27/Jun/2023 02:24:36] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:24:36,867 - INFO - 127.0.0.1 - - [27/Jun/2023 02:24:36] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:24:37,163 - INFO - 127.0.0.1 - - [27/Jun/2023 02:24:37] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:24:37,163 - INFO - 127.0.0.1 - - [27/Jun/2023 02:24:37] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:24:37,170 - INFO - 127.0.0.1 - - [27/Jun/2023 02:24:37] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:24:37,170 - INFO - 127.0.0.1 - - [27/Jun/2023 02:24:37] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:24:37,621 - INFO - 127.0.0.1 - - [27/Jun/2023 02:24:37] "GET /getTeamMembers/1 HTTP/1.1" 200 -
+2023-06-27 02:24:37,621 - INFO - 127.0.0.1 - - [27/Jun/2023 02:24:37] "GET /tasklists/1 HTTP/1.1" 200 -
+2023-06-27 02:24:37,876 - INFO - 127.0.0.1 - - [27/Jun/2023 02:24:37] "GET /getTeamMembers/1 HTTP/1.1" 200 -
+2023-06-27 02:24:37,939 - INFO - 127.0.0.1 - - [27/Jun/2023 02:24:37] "GET /tasklists/1 HTTP/1.1" 200 -
+2023-06-27 02:24:42,261 - INFO - 127.0.0.1 - - [27/Jun/2023 02:24:42] "OPTIONS /getUserTeams/6 HTTP/1.1" 200 -
+2023-06-27 02:24:42,572 - INFO - 127.0.0.1 - - [27/Jun/2023 02:24:42] "OPTIONS /getUserTeams/6 HTTP/1.1" 200 -
+2023-06-27 02:24:42,581 - INFO - 127.0.0.1 - - [27/Jun/2023 02:24:42] "GET /getUserTeams/6 HTTP/1.1" 200 -
+2023-06-27 02:24:42,899 - INFO - 127.0.0.1 - - [27/Jun/2023 02:24:42] "GET /getUserTeams/6 HTTP/1.1" 200 -
+2023-06-27 02:26:56,163 - INFO - 127.0.0.1 - - [27/Jun/2023 02:26:56] "GET /user/6 HTTP/1.1" 200 -
+2023-06-27 02:26:56,415 - INFO - 127.0.0.1 - - [27/Jun/2023 02:26:56] "GET /user/6 HTTP/1.1" 200 -
+2023-06-27 02:27:00,935 - INFO - 127.0.0.1 - - [27/Jun/2023 02:27:00] "OPTIONS /getUserTeams/6 HTTP/1.1" 200 -
+2023-06-27 02:27:01,237 - INFO - 127.0.0.1 - - [27/Jun/2023 02:27:01] "OPTIONS /getUserTeams/6 HTTP/1.1" 200 -
+2023-06-27 02:27:01,249 - INFO - 127.0.0.1 - - [27/Jun/2023 02:27:01] "GET /getUserTeams/6 HTTP/1.1" 200 -
+2023-06-27 02:27:01,572 - INFO - 127.0.0.1 - - [27/Jun/2023 02:27:01] "GET /getUserTeams/6 HTTP/1.1" 200 -
+2023-06-27 02:27:49,141 - INFO - 127.0.0.1 - - [27/Jun/2023 02:27:49] "GET /getUserTeams/6 HTTP/1.1" 200 -
+2023-06-27 02:27:49,434 - INFO - 127.0.0.1 - - [27/Jun/2023 02:27:49] "GET /getUserTeams/6 HTTP/1.1" 200 -
+2023-06-27 02:29:58,192 - INFO - 127.0.0.1 - - [27/Jun/2023 02:29:58] "OPTIONS /login HTTP/1.1" 200 -
+2023-06-27 02:29:58,618 - INFO - 127.0.0.1 - - [27/Jun/2023 02:29:58] "POST /login HTTP/1.1" 200 -
+2023-06-27 02:29:58,690 - INFO - 127.0.0.1 - - [27/Jun/2023 02:29:58] "OPTIONS /getUserTeams/6 HTTP/1.1" 200 -
+2023-06-27 02:29:58,999 - INFO - 127.0.0.1 - - [27/Jun/2023 02:29:58] "OPTIONS /getUserTeams/6 HTTP/1.1" 200 -
+2023-06-27 02:29:59,008 - INFO - 127.0.0.1 - - [27/Jun/2023 02:29:59] "GET /getUserTeams/6 HTTP/1.1" 200 -
+2023-06-27 02:29:59,320 - INFO - 127.0.0.1 - - [27/Jun/2023 02:29:59] "GET /getUserTeams/6 HTTP/1.1" 200 -
+2023-06-27 02:30:02,723 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:02] "GET /getTeamMembers/1 HTTP/1.1" 200 -
+2023-06-27 02:30:02,724 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:02] "GET /tasklists/1 HTTP/1.1" 200 -
+2023-06-27 02:30:02,973 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:02] "GET /getTeamMembers/1 HTTP/1.1" 200 -
+2023-06-27 02:30:03,036 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:03] "GET /tasklists/1 HTTP/1.1" 200 -
+2023-06-27 02:30:04,755 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:04] "GET /user/18 HTTP/1.1" 200 -
+2023-06-27 02:30:05,058 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:05] "GET /user/18 HTTP/1.1" 200 -
+2023-06-27 02:30:08,614 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:08] "GET /getTeamMembers/1 HTTP/1.1" 200 -
+2023-06-27 02:30:08,614 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:08] "GET /tasklists/1 HTTP/1.1" 200 -
+2023-06-27 02:30:08,858 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:08] "GET /getTeamMembers/1 HTTP/1.1" 200 -
+2023-06-27 02:30:08,934 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:08] "GET /tasklists/1 HTTP/1.1" 200 -
+2023-06-27 02:30:09,473 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:09] "GET /user/8 HTTP/1.1" 200 -
+2023-06-27 02:30:09,787 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:09] "GET /user/8 HTTP/1.1" 200 -
+2023-06-27 02:30:11,519 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:11] "GET /getTeamMembers/1 HTTP/1.1" 200 -
+2023-06-27 02:30:11,524 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:11] "GET /tasklists/1 HTTP/1.1" 200 -
+2023-06-27 02:30:11,774 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:11] "GET /getTeamMembers/1 HTTP/1.1" 200 -
+2023-06-27 02:30:11,836 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:11] "GET /tasklists/1 HTTP/1.1" 200 -
+2023-06-27 02:30:12,229 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:12] "GET /tasklists/1 HTTP/1.1" 200 -
+2023-06-27 02:30:12,540 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:12] "GET /tasklists/1 HTTP/1.1" 200 -
+2023-06-27 02:30:14,210 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:14] "GET /getTeamMembers/1 HTTP/1.1" 200 -
+2023-06-27 02:30:14,211 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:14] "GET /tasklists/1 HTTP/1.1" 200 -
+2023-06-27 02:30:14,456 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:14] "GET /getTeamMembers/1 HTTP/1.1" 200 -
+2023-06-27 02:30:14,531 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:14] "GET /tasklists/1 HTTP/1.1" 200 -
+2023-06-27 02:30:14,628 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:14] "GET /tasklists/1 HTTP/1.1" 200 -
+2023-06-27 02:30:14,948 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:14] "GET /tasklists/1 HTTP/1.1" 200 -
+2023-06-27 02:30:15,643 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:15] "GET /getTeamScript/1 HTTP/1.1" 200 -
+2023-06-27 02:30:15,905 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:15] "GET /getTeamScript/1 HTTP/1.1" 200 -
+2023-06-27 02:30:15,963 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:15] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:30:15,969 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:15] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:30:15,994 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:15] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:30:15,994 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:15] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:30:15,995 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:15] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:30:15,996 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:15] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:30:16,222 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:16] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:30:16,277 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:16] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:30:16,311 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:16] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:30:16,312 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:16] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:30:16,312 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:16] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:30:16,312 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:16] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:30:16,321 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:16] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:30:16,321 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:16] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:30:16,322 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:16] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:30:16,539 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:16] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:30:16,567 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:16] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:30:16,632 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:16] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:30:16,632 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:16] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:30:16,632 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:16] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:30:17,081 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:17] "GET /tasklists/1 HTTP/1.1" 200 -
+2023-06-27 02:30:17,081 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:17] "GET /getTeamMembers/1 HTTP/1.1" 200 -
+2023-06-27 02:30:17,332 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:17] "GET /tasklists/1 HTTP/1.1" 200 -
+2023-06-27 02:30:17,399 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:17] "GET /getTeamMembers/1 HTTP/1.1" 200 -
+2023-06-27 02:30:17,579 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:17] "GET /getTeamScript/1 HTTP/1.1" 200 -
+2023-06-27 02:30:17,890 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:17] "GET /getTeamScript/1 HTTP/1.1" 200 -
+2023-06-27 02:30:17,930 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:17] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:30:17,932 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:17] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:30:17,933 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:17] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:30:17,933 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:17] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:30:17,934 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:17] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:30:17,939 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:17] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:30:18,246 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:18] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:30:18,247 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:18] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:30:18,247 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:18] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:30:18,247 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:18] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:30:21,952 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:21] "GET /getTeamScript/1 HTTP/1.1" 200 -
+2023-06-27 02:30:22,208 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:22] "GET /getTeamScript/1 HTTP/1.1" 200 -
+2023-06-27 02:30:22,266 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:22] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:30:22,282 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:22] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:30:22,282 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:22] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:30:22,282 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:22] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:30:22,282 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:22] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:30:22,521 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:22] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:30:22,572 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:22] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:30:22,576 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:22] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:30:22,591 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:22] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:30:22,593 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:22] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:30:22,593 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:22] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:30:22,601 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:22] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:30:22,601 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:22] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:30:22,602 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:22] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:30:22,603 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:22] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:30:22,829 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:22] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:30:22,890 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:22] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:30:22,925 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:22] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:30:22,925 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:22] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:30:22,926 - INFO - 127.0.0.1 - - [27/Jun/2023 02:30:22] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-27 02:31:12,369 - INFO - 127.0.0.1 - - [27/Jun/2023 02:31:12] "OPTIONS /getUserTeams/6 HTTP/1.1" 200 -
+2023-06-27 02:31:12,371 - INFO - 127.0.0.1 - - [27/Jun/2023 02:31:12] "OPTIONS /getUserTeams/6 HTTP/1.1" 200 -
+2023-06-27 02:31:12,646 - INFO - 127.0.0.1 - - [27/Jun/2023 02:31:12] "GET /getUserTeams/6 HTTP/1.1" 200 -
+2023-06-27 02:31:12,690 - INFO - 127.0.0.1 - - [27/Jun/2023 02:31:12] "GET /getUserTeams/6 HTTP/1.1" 200 -
+2023-06-27 04:09:32,209 - INFO -  * Detected change in 'D:\\final project\\dissertation-UI-test-platform\\backend\\app\\routes.py', reloading
+2023-06-27 04:09:32,425 - INFO -  * Restarting with stat
+2023-06-27 04:09:33,597 - WARNING -  * Debugger is active!
+2023-06-27 04:09:33,600 - INFO -  * Debugger PIN: 830-819-996
+2023-06-27 04:09:35,727 - INFO -  * Detected change in 'D:\\final project\\dissertation-UI-test-platform\\backend\\app\\routes.py', reloading
+2023-06-27 04:09:35,879 - INFO -  * Restarting with stat
+2023-06-27 04:09:37,047 - WARNING -  * Debugger is active!
+2023-06-27 04:09:37,052 - INFO -  * Debugger PIN: 830-819-996
+2023-06-27 04:10:26,745 - INFO -  * Detected change in 'D:\\final project\\dissertation-UI-test-platform\\backend\\app\\models.py', reloading
+2023-06-27 04:10:26,862 - INFO -  * Restarting with stat
+2023-06-27 04:10:27,872 - WARNING -  * Debugger is active!
+2023-06-27 04:10:27,875 - INFO -  * Debugger PIN: 830-819-996
+2023-06-28 11:55:25,470 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.65.130.253:5000
+2023-06-28 11:55:25,472 - INFO - [33mPress CTRL+C to quit[0m
+2023-06-28 11:55:25,478 - INFO -  * Restarting with stat
+2023-06-28 11:55:26,658 - WARNING -  * Debugger is active!
+2023-06-28 11:55:26,663 - INFO -  * Debugger PIN: 830-819-996
+2023-06-28 14:52:59,214 - INFO - 127.0.0.1 - - [28/Jun/2023 14:52:59] "OPTIONS /login HTTP/1.1" 200 -
+2023-06-28 14:52:59,669 - INFO - 127.0.0.1 - - [28/Jun/2023 14:52:59] "POST /login HTTP/1.1" 200 -
+2023-06-28 14:52:59,717 - INFO - 127.0.0.1 - - [28/Jun/2023 14:52:59] "OPTIONS /getUserTeams/6 HTTP/1.1" 200 -
+2023-06-28 14:53:00,028 - INFO - 127.0.0.1 - - [28/Jun/2023 14:53:00] "OPTIONS /getUserTeams/6 HTTP/1.1" 200 -
+2023-06-28 14:53:00,046 - INFO - 127.0.0.1 - - [28/Jun/2023 14:53:00] "GET /getUserTeams/6 HTTP/1.1" 200 -
+2023-06-28 14:53:00,368 - INFO - 127.0.0.1 - - [28/Jun/2023 14:53:00] "GET /getUserTeams/6 HTTP/1.1" 200 -
+2023-06-28 14:53:01,740 - INFO - 127.0.0.1 - - [28/Jun/2023 14:53:01] "GET /tasklists/1 HTTP/1.1" 200 -
+2023-06-28 14:53:01,742 - INFO - 127.0.0.1 - - [28/Jun/2023 14:53:01] "GET /getTeamMembers/1 HTTP/1.1" 200 -
+2023-06-28 14:53:01,989 - INFO - 127.0.0.1 - - [28/Jun/2023 14:53:01] "GET /tasklists/1 HTTP/1.1" 200 -
+2023-06-28 14:53:02,051 - INFO - 127.0.0.1 - - [28/Jun/2023 14:53:02] "GET /getTeamMembers/1 HTTP/1.1" 200 -
+2023-06-28 14:53:02,284 - INFO - 127.0.0.1 - - [28/Jun/2023 14:53:02] "GET /getTeamScript/1 HTTP/1.1" 200 -
+2023-06-28 14:53:02,593 - INFO - 127.0.0.1 - - [28/Jun/2023 14:53:02] "GET /getTeamScript/1 HTTP/1.1" 200 -
+2023-06-28 14:53:02,608 - INFO - 127.0.0.1 - - [28/Jun/2023 14:53:02] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-28 14:53:02,612 - INFO - 127.0.0.1 - - [28/Jun/2023 14:53:02] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-28 14:53:02,612 - INFO - 127.0.0.1 - - [28/Jun/2023 14:53:02] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-28 14:53:02,612 - INFO - 127.0.0.1 - - [28/Jun/2023 14:53:02] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-28 14:53:02,612 - INFO - 127.0.0.1 - - [28/Jun/2023 14:53:02] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-28 14:53:02,624 - INFO - 127.0.0.1 - - [28/Jun/2023 14:53:02] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-28 14:53:02,899 - INFO - 127.0.0.1 - - [28/Jun/2023 14:53:02] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-28 14:53:02,916 - INFO - 127.0.0.1 - - [28/Jun/2023 14:53:02] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-28 14:53:02,918 - INFO - 127.0.0.1 - - [28/Jun/2023 14:53:02] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-28 14:53:02,921 - INFO - 127.0.0.1 - - [28/Jun/2023 14:53:02] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-28 14:53:02,921 - INFO - 127.0.0.1 - - [28/Jun/2023 14:53:02] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-28 14:53:02,927 - INFO - 127.0.0.1 - - [28/Jun/2023 14:53:02] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-28 14:53:02,930 - INFO - 127.0.0.1 - - [28/Jun/2023 14:53:02] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-28 14:53:02,931 - INFO - 127.0.0.1 - - [28/Jun/2023 14:53:02] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-28 14:53:02,933 - INFO - 127.0.0.1 - - [28/Jun/2023 14:53:02] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-28 14:53:03,208 - INFO - 127.0.0.1 - - [28/Jun/2023 14:53:03] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-28 14:53:03,224 - INFO - 127.0.0.1 - - [28/Jun/2023 14:53:03] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-28 14:53:03,233 - INFO - 127.0.0.1 - - [28/Jun/2023 14:53:03] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-28 14:53:03,237 - INFO - 127.0.0.1 - - [28/Jun/2023 14:53:03] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-28 14:53:03,238 - INFO - 127.0.0.1 - - [28/Jun/2023 14:53:03] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-28 16:50:17,623 - INFO - 127.0.0.1 - - [28/Jun/2023 16:50:17] "OPTIONS /login HTTP/1.1" 200 -
+2023-06-28 16:50:18,015 - INFO - 127.0.0.1 - - [28/Jun/2023 16:50:18] "POST /login HTTP/1.1" 200 -
+2023-06-28 16:50:18,073 - INFO - 127.0.0.1 - - [28/Jun/2023 16:50:18] "OPTIONS /getUserTeams/6 HTTP/1.1" 200 -
+2023-06-28 16:50:18,389 - INFO - 127.0.0.1 - - [28/Jun/2023 16:50:18] "OPTIONS /getUserTeams/6 HTTP/1.1" 200 -
+2023-06-28 16:50:18,398 - INFO - 127.0.0.1 - - [28/Jun/2023 16:50:18] "GET /getUserTeams/6 HTTP/1.1" 200 -
+2023-06-28 16:50:18,717 - INFO - 127.0.0.1 - - [28/Jun/2023 16:50:18] "GET /getUserTeams/6 HTTP/1.1" 200 -
+2023-06-28 16:50:19,808 - INFO - 127.0.0.1 - - [28/Jun/2023 16:50:19] "GET /getTeamMembers/1 HTTP/1.1" 200 -
+2023-06-28 16:50:19,808 - INFO - 127.0.0.1 - - [28/Jun/2023 16:50:19] "GET /tasklists/1 HTTP/1.1" 200 -
+2023-06-28 16:50:20,055 - INFO - 127.0.0.1 - - [28/Jun/2023 16:50:20] "GET /getTeamMembers/1 HTTP/1.1" 200 -
+2023-06-28 16:50:20,130 - INFO - 127.0.0.1 - - [28/Jun/2023 16:50:20] "GET /tasklists/1 HTTP/1.1" 200 -
+2023-06-28 16:50:20,948 - INFO - 127.0.0.1 - - [28/Jun/2023 16:50:20] "GET /getTeamScript/1 HTTP/1.1" 200 -
+2023-06-28 16:50:21,261 - INFO - 127.0.0.1 - - [28/Jun/2023 16:50:21] "GET /getTeamScript/1 HTTP/1.1" 200 -
+2023-06-28 16:50:21,289 - INFO - 127.0.0.1 - - [28/Jun/2023 16:50:21] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-28 16:50:21,289 - INFO - 127.0.0.1 - - [28/Jun/2023 16:50:21] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-28 16:50:21,290 - INFO - 127.0.0.1 - - [28/Jun/2023 16:50:21] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-28 16:50:21,290 - INFO - 127.0.0.1 - - [28/Jun/2023 16:50:21] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-28 16:50:21,291 - INFO - 127.0.0.1 - - [28/Jun/2023 16:50:21] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-28 16:50:21,296 - INFO - 127.0.0.1 - - [28/Jun/2023 16:50:21] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-28 16:50:21,565 - INFO - 127.0.0.1 - - [28/Jun/2023 16:50:21] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-28 16:50:21,601 - INFO - 127.0.0.1 - - [28/Jun/2023 16:50:21] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-28 16:50:21,601 - INFO - 127.0.0.1 - - [28/Jun/2023 16:50:21] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-28 16:50:21,602 - INFO - 127.0.0.1 - - [28/Jun/2023 16:50:21] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-28 16:50:21,602 - INFO - 127.0.0.1 - - [28/Jun/2023 16:50:21] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-28 16:50:21,611 - INFO - 127.0.0.1 - - [28/Jun/2023 16:50:21] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-28 16:50:21,611 - INFO - 127.0.0.1 - - [28/Jun/2023 16:50:21] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-28 16:50:21,611 - INFO - 127.0.0.1 - - [28/Jun/2023 16:50:21] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-28 16:50:21,612 - INFO - 127.0.0.1 - - [28/Jun/2023 16:50:21] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-28 16:50:21,885 - INFO - 127.0.0.1 - - [28/Jun/2023 16:50:21] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-28 16:50:21,933 - INFO - 127.0.0.1 - - [28/Jun/2023 16:50:21] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-28 16:50:21,935 - INFO - 127.0.0.1 - - [28/Jun/2023 16:50:21] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-28 16:50:21,936 - INFO - 127.0.0.1 - - [28/Jun/2023 16:50:21] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-28 16:50:21,937 - INFO - 127.0.0.1 - - [28/Jun/2023 16:50:21] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-28 18:17:10,190 - INFO -  * Detected change in 'D:\\final project\\dissertation-UI-test-platform\\backend\\app\\test_cases.py', reloading
+2023-06-28 18:17:10,412 - INFO -  * Restarting with stat
+2023-06-28 18:17:11,274 - WARNING -  * Debugger is active!
+2023-06-28 18:17:11,276 - INFO -  * Debugger PIN: 830-819-996
+2023-06-28 20:40:48,667 - INFO -  * Detected change in 'D:\\final project\\dissertation-UI-test-platform\\backend\\app\\test_cases.py', reloading
+2023-06-28 20:40:48,825 - INFO -  * Restarting with stat
+2023-06-28 20:40:49,527 - WARNING -  * Debugger is active!
+2023-06-28 20:40:49,529 - INFO -  * Debugger PIN: 830-819-996
+2023-06-28 20:42:12,641 - INFO -  * Detected change in 'D:\\final project\\dissertation-UI-test-platform\\backend\\app\\routes.py', reloading
+2023-06-28 20:42:12,715 - INFO -  * Restarting with stat
+2023-06-28 20:42:13,367 - WARNING -  * Debugger is active!
+2023-06-28 20:42:13,370 - INFO -  * Debugger PIN: 830-819-996
+2023-06-28 22:33:32,429 - INFO - 127.0.0.1 - - [28/Jun/2023 22:33:32] "OPTIONS /runTestEvents HTTP/1.1" 200 -
+2023-06-28 22:33:32,821 - INFO - Executing: C:\Python311\Lib\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser chrome --output json
+2023-06-28 22:33:39,126 - INFO - 127.0.0.1 - - [28/Jun/2023 22:33:39] "[31m[1mPOST /runTestEvents HTTP/1.1[0m" 400 -
+2023-06-28 22:35:46,653 - INFO - 127.0.0.1 - - [28/Jun/2023 22:35:46] "OPTIONS /runTestEvents HTTP/1.1" 200 -
+2023-06-28 22:35:46,971 - INFO - Executing: C:\Python311\Lib\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser chrome --output json
+2023-06-28 22:35:50,887 - INFO - 127.0.0.1 - - [28/Jun/2023 22:35:50] "[31m[1mPOST /runTestEvents HTTP/1.1[0m" 400 -
+2023-06-29 01:48:33,412 - INFO -  * Detected change in 'D:\\final project\\dissertation-UI-test-platform\\backend\\app\\test_cases.py', reloading
+2023-06-29 01:48:41,748 - INFO -  * Restarting with stat
+2023-06-29 01:48:42,867 - WARNING -  * Debugger is active!
+2023-06-29 01:48:42,867 - INFO -  * Debugger PIN: 830-819-996
+2023-06-29 01:48:42,900 - INFO - 127.0.0.1 - - [29/Jun/2023 01:48:42] "OPTIONS /runTestEvents HTTP/1.1" 200 -
+2023-06-29 01:48:43,236 - INFO - 127.0.0.1 - - [29/Jun/2023 01:48:43] "[31m[1mPOST /runTestEvents HTTP/1.1[0m" 400 -
+2023-06-29 01:59:05,908 - INFO -  * Detected change in 'D:\\final project\\dissertation-UI-test-platform\\backend\\app\\test_cases.py', reloading
+2023-06-29 01:59:06,008 - INFO -  * Restarting with stat
+2023-06-29 01:59:06,771 - WARNING -  * Debugger is active!
+2023-06-29 01:59:06,773 - INFO -  * Debugger PIN: 830-819-996
+2023-06-29 01:59:11,071 - INFO - 127.0.0.1 - - [29/Jun/2023 01:59:11] "OPTIONS /runTestEvents HTTP/1.1" 200 -
+2023-06-29 01:59:11,409 - INFO - 127.0.0.1 - - [29/Jun/2023 01:59:11] "[31m[1mPOST /runTestEvents HTTP/1.1[0m" 400 -
+2023-06-29 02:19:42,271 - INFO -  * Detected change in 'D:\\final project\\dissertation-UI-test-platform\\backend\\app\\routes.py', reloading
+2023-06-29 02:19:42,355 - INFO -  * Restarting with stat
+2023-06-29 02:19:43,029 - WARNING -  * Debugger is active!
+2023-06-29 02:19:43,031 - INFO -  * Debugger PIN: 830-819-996
+2023-06-29 02:26:11,248 - INFO -  * Detected change in 'D:\\final project\\dissertation-UI-test-platform\\backend\\app\\test_cases.py', reloading
+2023-06-29 02:26:11,357 - INFO -  * Restarting with stat
+2023-06-29 02:26:12,103 - WARNING -  * Debugger is active!
+2023-06-29 02:26:12,105 - INFO -  * Debugger PIN: 830-819-996
+2023-06-29 02:26:44,995 - INFO -  * Detected change in 'D:\\final project\\dissertation-UI-test-platform\\backend\\app\\test_cases.py', reloading
+2023-06-29 02:26:45,069 - INFO -  * Restarting with stat
+2023-06-29 02:26:45,723 - WARNING -  * Debugger is active!
+2023-06-29 02:26:45,725 - INFO -  * Debugger PIN: 830-819-996
+2023-06-29 02:28:05,762 - INFO -  * Detected change in 'D:\\final project\\dissertation-UI-test-platform\\backend\\app\\routes.py', reloading
+2023-06-29 02:28:05,841 - INFO -  * Restarting with stat
+2023-06-29 02:28:06,527 - WARNING -  * Debugger is active!
+2023-06-29 02:28:06,527 - INFO -  * Debugger PIN: 830-819-996
+2023-06-29 02:28:25,049 - INFO -  * Detected change in 'D:\\final project\\dissertation-UI-test-platform\\backend\\app\\routes.py', reloading
+2023-06-29 02:28:25,137 - INFO -  * Restarting with stat
+2023-06-29 02:28:25,809 - WARNING -  * Debugger is active!
+2023-06-29 02:28:25,811 - INFO -  * Debugger PIN: 830-819-996
+2023-06-29 02:28:31,866 - INFO - 127.0.0.1 - - [29/Jun/2023 02:28:31] "OPTIONS /runTestEvents HTTP/1.1" 200 -
+2023-06-29 02:28:32,208 - INFO - 127.0.0.1 - - [29/Jun/2023 02:28:32] "[31m[1mPOST /runTestEvents HTTP/1.1[0m" 400 -
+2023-06-29 02:38:57,176 - INFO -  * Detected change in 'D:\\final project\\dissertation-UI-test-platform\\backend\\app\\test_cases.py', reloading
+2023-06-29 02:38:57,273 - INFO -  * Restarting with stat
+2023-06-29 02:38:57,938 - WARNING -  * Debugger is active!
+2023-06-29 02:38:57,939 - INFO -  * Debugger PIN: 830-819-996
+2023-06-29 02:39:05,163 - INFO -  * Detected change in 'D:\\final project\\dissertation-UI-test-platform\\backend\\app\\routes.py', reloading
+2023-06-29 02:39:05,268 - INFO -  * Restarting with stat
+2023-06-29 02:39:05,980 - WARNING -  * Debugger is active!
+2023-06-29 02:39:05,982 - INFO -  * Debugger PIN: 830-819-996
+2023-06-29 02:39:07,433 - INFO - 127.0.0.1 - - [29/Jun/2023 02:39:07] "OPTIONS /runTestEvents HTTP/1.1" 200 -
+2023-06-29 02:39:07,768 - INFO - 127.0.0.1 - - [29/Jun/2023 02:39:07] "[31m[1mPOST /runTestEvents HTTP/1.1[0m" 400 -
+2023-06-29 02:43:09,374 - INFO -  * Detected change in 'D:\\final project\\dissertation-UI-test-platform\\backend\\app\\test_cases.py', reloading
+2023-06-29 02:43:09,538 - INFO -  * Restarting with stat
+2023-06-29 02:43:10,270 - WARNING -  * Debugger is active!
+2023-06-29 02:43:10,274 - INFO -  * Debugger PIN: 830-819-996
+2023-06-29 02:43:21,605 - INFO -  * Detected change in 'D:\\final project\\dissertation-UI-test-platform\\backend\\app\\test_cases.py', reloading
+2023-06-29 02:43:21,727 - INFO -  * Restarting with stat
+2023-06-29 02:43:22,408 - WARNING -  * Debugger is active!
+2023-06-29 02:43:22,408 - INFO -  * Debugger PIN: 830-819-996
+2023-06-29 02:43:24,780 - INFO - 127.0.0.1 - - [29/Jun/2023 02:43:24] "OPTIONS /runTestEvents HTTP/1.1" 200 -
+2023-06-29 02:43:25,156 - INFO - 127.0.0.1 - - [29/Jun/2023 02:43:25] "[31m[1mPOST /runTestEvents HTTP/1.1[0m" 400 -
+2023-06-29 02:43:42,679 - INFO - 127.0.0.1 - - [29/Jun/2023 02:43:42] "OPTIONS /runTestEvents HTTP/1.1" 200 -
+2023-06-29 02:43:42,716 - INFO - 127.0.0.1 - - [29/Jun/2023 02:43:42] "[31m[1mPOST /runTestEvents HTTP/1.1[0m" 400 -
+2023-06-29 02:54:53,265 - INFO -  * Detected change in 'D:\\final project\\dissertation-UI-test-platform\\backend\\app\\routes.py', reloading
+2023-06-29 02:54:53,371 - INFO -  * Restarting with stat
+2023-06-29 02:54:54,142 - WARNING -  * Debugger is active!
+2023-06-29 02:54:54,144 - INFO -  * Debugger PIN: 830-819-996
+2023-06-29 02:54:56,937 - INFO - 127.0.0.1 - - [29/Jun/2023 02:54:56] "OPTIONS /runTestEvents HTTP/1.1" 200 -
+2023-06-29 02:54:57,319 - INFO - 127.0.0.1 - - [29/Jun/2023 02:54:57] "[31m[1mPOST /runTestEvents HTTP/1.1[0m" 400 -
+2023-06-29 02:56:02,102 - INFO - 127.0.0.1 - - [29/Jun/2023 02:56:02] "OPTIONS /runTestEvents HTTP/1.1" 200 -
+2023-06-29 02:56:02,423 - INFO - Executing: C:\Python311\Lib\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser chrome --output json
+2023-06-29 02:56:06,659 - INFO - 127.0.0.1 - - [29/Jun/2023 02:56:06] "[31m[1mPOST /runTestEvents HTTP/1.1[0m" 400 -
+2023-06-29 02:59:18,899 - INFO -  * Detected change in 'D:\\final project\\dissertation-UI-test-platform\\backend\\app\\test_cases.py', reloading
+2023-06-29 02:59:23,027 - INFO -  * Restarting with stat
+2023-06-29 02:59:23,678 - WARNING -  * Debugger is active!
+2023-06-29 02:59:23,681 - INFO -  * Debugger PIN: 830-819-996
+2023-06-29 02:59:59,644 - INFO -  * Detected change in 'D:\\final project\\dissertation-UI-test-platform\\backend\\app\\test_cases.py', reloading
+2023-06-29 02:59:59,717 - INFO -  * Restarting with stat
+2023-06-29 03:00:00,394 - WARNING -  * Debugger is active!
+2023-06-29 03:00:00,396 - INFO -  * Debugger PIN: 830-819-996
+2023-06-29 03:00:04,414 - INFO - 127.0.0.1 - - [29/Jun/2023 03:00:04] "OPTIONS /runTestEvents HTTP/1.1" 200 -
+2023-06-29 03:00:04,768 - INFO - Executing: C:\Python311\Lib\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser chrome --output json
+2023-06-29 03:00:08,536 - INFO - 127.0.0.1 - - [29/Jun/2023 03:00:08] "[31m[1mPOST /runTestEvents HTTP/1.1[0m" 400 -
+2023-06-29 03:00:37,375 - INFO -  * Detected change in 'D:\\final project\\dissertation-UI-test-platform\\backend\\app\\routes.py', reloading
+2023-06-29 03:00:41,569 - INFO -  * Restarting with stat
+2023-06-29 03:00:42,254 - WARNING -  * Debugger is active!
+2023-06-29 03:00:42,260 - INFO -  * Debugger PIN: 830-819-996
+2023-06-29 03:00:42,289 - INFO - 127.0.0.1 - - [29/Jun/2023 03:00:42] "OPTIONS /runTestEvents HTTP/1.1" 200 -
+2023-06-29 03:00:42,648 - INFO - Executing: C:\Python311\Lib\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser chrome --output json
+2023-06-29 03:00:46,370 - INFO - 127.0.0.1 - - [29/Jun/2023 03:00:46] "[31m[1mPOST /runTestEvents HTTP/1.1[0m" 400 -
+2023-06-29 03:05:08,042 - INFO -  * Detected change in 'D:\\final project\\dissertation-UI-test-platform\\backend\\app\\test_cases.py', reloading
+2023-06-29 03:05:12,232 - INFO -  * Restarting with stat
+2023-06-29 03:05:12,920 - WARNING -  * Debugger is active!
+2023-06-29 03:05:12,922 - INFO -  * Debugger PIN: 830-819-996
+2023-06-29 03:05:12,948 - INFO - 127.0.0.1 - - [29/Jun/2023 03:05:12] "OPTIONS /runTestEvents HTTP/1.1" 200 -
+2023-06-29 03:05:13,287 - INFO - Executing: C:\Python311\Lib\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser chrome --output json
+2023-06-29 03:05:17,044 - INFO - 127.0.0.1 - - [29/Jun/2023 03:05:17] "[31m[1mPOST /runTestEvents HTTP/1.1[0m" 400 -
+2023-06-29 03:08:53,679 - INFO - 127.0.0.1 - - [29/Jun/2023 03:08:53] "OPTIONS /runTestEvents HTTP/1.1" 200 -
+2023-06-29 03:08:54,004 - INFO - Executing: C:\Python311\Lib\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser chrome --output json
+2023-06-29 03:08:57,825 - INFO - 127.0.0.1 - - [29/Jun/2023 03:08:57] "[31m[1mPOST /runTestEvents HTTP/1.1[0m" 400 -
+2023-06-29 03:09:07,913 - INFO - 127.0.0.1 - - [29/Jun/2023 03:09:07] "OPTIONS /runTestEvents HTTP/1.1" 200 -
+2023-06-29 03:09:07,933 - INFO - Executing: C:\Python311\Lib\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser chrome --output json
+2023-06-29 03:09:11,688 - INFO - 127.0.0.1 - - [29/Jun/2023 03:09:11] "[31m[1mPOST /runTestEvents HTTP/1.1[0m" 400 -
+2023-06-29 03:09:30,936 - INFO - 127.0.0.1 - - [29/Jun/2023 03:09:30] "OPTIONS /runTestEvents HTTP/1.1" 200 -
+2023-06-29 03:09:31,267 - INFO - Executing: C:\Python311\Lib\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser chrome --output json
+2023-06-29 03:09:47,259 - INFO - 127.0.0.1 - - [29/Jun/2023 03:09:47] "[31m[1mPOST /runTestEvents HTTP/1.1[0m" 400 -
+2023-06-29 10:56:51,796 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.65.130.253:5000
+2023-06-29 10:56:51,796 - INFO - [33mPress CTRL+C to quit[0m
+2023-06-29 10:56:51,799 - INFO -  * Restarting with stat
+2023-06-29 10:56:53,291 - WARNING -  * Debugger is active!
+2023-06-29 10:56:53,295 - INFO -  * Debugger PIN: 830-819-996
+2023-06-29 11:00:03,408 - INFO - 127.0.0.1 - - [29/Jun/2023 11:00:03] "OPTIONS /login HTTP/1.1" 200 -
+2023-06-29 11:00:03,819 - INFO - 127.0.0.1 - - [29/Jun/2023 11:00:03] "POST /login HTTP/1.1" 200 -
+2023-06-29 11:00:03,875 - INFO - 127.0.0.1 - - [29/Jun/2023 11:00:03] "OPTIONS /getUserTeams/6 HTTP/1.1" 200 -
+2023-06-29 11:00:04,186 - INFO - 127.0.0.1 - - [29/Jun/2023 11:00:04] "OPTIONS /getUserTeams/6 HTTP/1.1" 200 -
+2023-06-29 11:00:04,199 - INFO - 127.0.0.1 - - [29/Jun/2023 11:00:04] "GET /getUserTeams/6 HTTP/1.1" 200 -
+2023-06-29 11:00:04,515 - INFO - 127.0.0.1 - - [29/Jun/2023 11:00:04] "GET /getUserTeams/6 HTTP/1.1" 200 -
+2023-06-29 11:00:05,813 - INFO - 127.0.0.1 - - [29/Jun/2023 11:00:05] "GET /tasklists/1 HTTP/1.1" 200 -
+2023-06-29 11:00:05,814 - INFO - 127.0.0.1 - - [29/Jun/2023 11:00:05] "GET /getTeamMembers/1 HTTP/1.1" 200 -
+2023-06-29 11:00:06,071 - INFO - 127.0.0.1 - - [29/Jun/2023 11:00:06] "GET /tasklists/1 HTTP/1.1" 200 -
+2023-06-29 11:00:06,133 - INFO - 127.0.0.1 - - [29/Jun/2023 11:00:06] "GET /getTeamMembers/1 HTTP/1.1" 200 -
+2023-06-29 11:00:06,363 - INFO - 127.0.0.1 - - [29/Jun/2023 11:00:06] "GET /getTeamScript/1 HTTP/1.1" 200 -
+2023-06-29 11:00:06,676 - INFO - 127.0.0.1 - - [29/Jun/2023 11:00:06] "GET /getTeamScript/1 HTTP/1.1" 200 -
+2023-06-29 11:00:06,704 - INFO - 127.0.0.1 - - [29/Jun/2023 11:00:06] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-29 11:00:06,705 - INFO - 127.0.0.1 - - [29/Jun/2023 11:00:06] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-29 11:00:06,705 - INFO - 127.0.0.1 - - [29/Jun/2023 11:00:06] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-29 11:00:06,706 - INFO - 127.0.0.1 - - [29/Jun/2023 11:00:06] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-29 11:00:06,707 - INFO - 127.0.0.1 - - [29/Jun/2023 11:00:06] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-29 11:00:06,714 - INFO - 127.0.0.1 - - [29/Jun/2023 11:00:06] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-29 11:00:06,983 - INFO - 127.0.0.1 - - [29/Jun/2023 11:00:06] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-29 11:00:07,016 - INFO - 127.0.0.1 - - [29/Jun/2023 11:00:07] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-29 11:00:07,017 - INFO - 127.0.0.1 - - [29/Jun/2023 11:00:07] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-29 11:00:07,017 - INFO - 127.0.0.1 - - [29/Jun/2023 11:00:07] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-29 11:00:07,018 - INFO - 127.0.0.1 - - [29/Jun/2023 11:00:07] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-29 11:00:07,023 - INFO - 127.0.0.1 - - [29/Jun/2023 11:00:07] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-29 11:00:07,024 - INFO - 127.0.0.1 - - [29/Jun/2023 11:00:07] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-29 11:00:07,025 - INFO - 127.0.0.1 - - [29/Jun/2023 11:00:07] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-29 11:00:07,025 - INFO - 127.0.0.1 - - [29/Jun/2023 11:00:07] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-29 11:00:07,296 - INFO - 127.0.0.1 - - [29/Jun/2023 11:00:07] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-29 11:00:07,326 - INFO - 127.0.0.1 - - [29/Jun/2023 11:00:07] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-29 11:00:07,330 - INFO - 127.0.0.1 - - [29/Jun/2023 11:00:07] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-29 11:00:07,330 - INFO - 127.0.0.1 - - [29/Jun/2023 11:00:07] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-29 11:00:07,331 - INFO - 127.0.0.1 - - [29/Jun/2023 11:00:07] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-29 11:00:55,284 - INFO - 127.0.0.1 - - [29/Jun/2023 11:00:55] "OPTIONS /runTestEvents HTTP/1.1" 200 -
+2023-06-29 11:00:55,612 - INFO - Executing: C:\Python311\Lib\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser chrome --output json
+2023-06-29 11:01:00,026 - INFO - 127.0.0.1 - - [29/Jun/2023 11:01:00] "[31m[1mPOST /runTestEvents HTTP/1.1[0m" 400 -
+2023-06-29 11:06:39,049 - INFO - 127.0.0.1 - - [29/Jun/2023 11:06:39] "OPTIONS /runTestEvents HTTP/1.1" 200 -
+2023-06-29 11:06:39,372 - INFO - Executing: C:\Python311\Lib\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser chrome --output json
+2023-06-29 11:06:43,251 - INFO - 127.0.0.1 - - [29/Jun/2023 11:06:43] "[31m[1mPOST /runTestEvents HTTP/1.1[0m" 400 -
+2023-06-29 11:07:21,027 - INFO - 127.0.0.1 - - [29/Jun/2023 11:07:21] "OPTIONS /runTestEvents HTTP/1.1" 200 -
+2023-06-29 11:07:21,045 - INFO - Executing: C:\Python311\Lib\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser chrome --output json
+2023-06-29 11:07:24,971 - INFO - 127.0.0.1 - - [29/Jun/2023 11:07:24] "[31m[1mPOST /runTestEvents HTTP/1.1[0m" 400 -
+2023-06-29 11:07:50,820 - INFO - 127.0.0.1 - - [29/Jun/2023 11:07:50] "OPTIONS /runTestEvents HTTP/1.1" 200 -
+2023-06-29 11:07:51,143 - INFO - Executing: C:\Python311\Lib\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser chrome --output json
+2023-06-29 11:07:54,931 - INFO - 127.0.0.1 - - [29/Jun/2023 11:07:54] "[31m[1mPOST /runTestEvents HTTP/1.1[0m" 400 -
+2023-06-29 13:51:45,402 - INFO - 127.0.0.1 - - [29/Jun/2023 13:51:45] "OPTIONS /runTestEvents HTTP/1.1" 200 -
+2023-06-29 13:51:45,759 - INFO - Executing: C:\Python311\Lib\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser chrome --output json
+2023-06-29 13:51:49,666 - INFO - 127.0.0.1 - - [29/Jun/2023 13:51:49] "[31m[1mPOST /runTestEvents HTTP/1.1[0m" 400 -
+2023-06-29 13:53:37,259 - INFO -  * Detected change in 'D:\\final project\\dissertation-UI-test-platform\\backend\\app\\test_cases.py', reloading
+2023-06-29 13:53:57,787 - INFO -  * Restarting with stat
+2023-06-29 13:53:58,543 - WARNING -  * Debugger is active!
+2023-06-29 13:53:58,546 - INFO -  * Debugger PIN: 830-819-996
+2023-06-29 13:53:59,609 - INFO -  * Detected change in 'D:\\final project\\dissertation-UI-test-platform\\backend\\app\\test_cases.py', reloading
+2023-06-29 13:53:59,712 - INFO -  * Restarting with stat
+2023-06-29 13:54:00,422 - WARNING -  * Debugger is active!
+2023-06-29 13:54:00,424 - INFO -  * Debugger PIN: 830-819-996
+2023-06-29 13:54:04,092 - INFO - 127.0.0.1 - - [29/Jun/2023 13:54:04] "OPTIONS /runTestEvents HTTP/1.1" 200 -
+2023-06-29 13:54:04,443 - INFO - Executing: C:\Python311\Lib\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser chrome --output json
+2023-06-29 13:54:08,277 - INFO - 127.0.0.1 - - [29/Jun/2023 13:54:08] "[31m[1mPOST /runTestEvents HTTP/1.1[0m" 400 -
+2023-06-29 14:01:04,928 - INFO - 127.0.0.1 - - [29/Jun/2023 14:01:04] "GET /getTeamScript/1 HTTP/1.1" 200 -
+2023-06-29 14:01:05,197 - INFO - 127.0.0.1 - - [29/Jun/2023 14:01:05] "GET /getTeamScript/1 HTTP/1.1" 200 -
+2023-06-29 14:01:05,239 - INFO - 127.0.0.1 - - [29/Jun/2023 14:01:05] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-29 14:01:05,255 - INFO - 127.0.0.1 - - [29/Jun/2023 14:01:05] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-29 14:01:05,256 - INFO - 127.0.0.1 - - [29/Jun/2023 14:01:05] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-29 14:01:05,256 - INFO - 127.0.0.1 - - [29/Jun/2023 14:01:05] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-29 14:01:05,258 - INFO - 127.0.0.1 - - [29/Jun/2023 14:01:05] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-29 14:01:05,506 - INFO - 127.0.0.1 - - [29/Jun/2023 14:01:05] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-29 14:01:05,551 - INFO - 127.0.0.1 - - [29/Jun/2023 14:01:05] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-29 14:01:05,568 - INFO - 127.0.0.1 - - [29/Jun/2023 14:01:05] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-29 14:01:05,568 - INFO - 127.0.0.1 - - [29/Jun/2023 14:01:05] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-29 14:01:05,569 - INFO - 127.0.0.1 - - [29/Jun/2023 14:01:05] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-29 14:01:05,577 - INFO - 127.0.0.1 - - [29/Jun/2023 14:01:05] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-29 14:01:05,577 - INFO - 127.0.0.1 - - [29/Jun/2023 14:01:05] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-29 14:01:05,578 - INFO - 127.0.0.1 - - [29/Jun/2023 14:01:05] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-29 14:01:05,578 - INFO - 127.0.0.1 - - [29/Jun/2023 14:01:05] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-29 14:01:05,817 - INFO - 127.0.0.1 - - [29/Jun/2023 14:01:05] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-29 14:01:05,897 - INFO - 127.0.0.1 - - [29/Jun/2023 14:01:05] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-29 14:01:05,897 - INFO - 127.0.0.1 - - [29/Jun/2023 14:01:05] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-29 14:01:05,897 - INFO - 127.0.0.1 - - [29/Jun/2023 14:01:05] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-29 14:01:05,899 - INFO - 127.0.0.1 - - [29/Jun/2023 14:01:05] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-29 14:01:08,952 - INFO - 127.0.0.1 - - [29/Jun/2023 14:01:08] "OPTIONS /login HTTP/1.1" 200 -
+2023-06-29 14:01:09,344 - INFO - 127.0.0.1 - - [29/Jun/2023 14:01:09] "POST /login HTTP/1.1" 200 -
+2023-06-29 14:01:09,392 - INFO - 127.0.0.1 - - [29/Jun/2023 14:01:09] "OPTIONS /getUserTeams/6 HTTP/1.1" 200 -
+2023-06-29 14:01:09,636 - INFO - 127.0.0.1 - - [29/Jun/2023 14:01:09] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-29 14:01:09,697 - INFO - 127.0.0.1 - - [29/Jun/2023 14:01:09] "OPTIONS /getUserTeams/6 HTTP/1.1" 200 -
+2023-06-29 14:01:09,706 - INFO - 127.0.0.1 - - [29/Jun/2023 14:01:09] "GET /getUserTeams/6 HTTP/1.1" 200 -
+2023-06-29 14:01:10,015 - INFO - 127.0.0.1 - - [29/Jun/2023 14:01:10] "GET /getUserTeams/6 HTTP/1.1" 200 -
+2023-06-29 14:01:11,735 - INFO - 127.0.0.1 - - [29/Jun/2023 14:01:11] "GET /user/6 HTTP/1.1" 200 -
+2023-06-29 14:01:12,001 - INFO - 127.0.0.1 - - [29/Jun/2023 14:01:12] "GET /user/6 HTTP/1.1" 200 -
+2023-06-29 14:01:12,313 - INFO - 127.0.0.1 - - [29/Jun/2023 14:01:12] "GET /getUserTeams/6 HTTP/1.1" 200 -
+2023-06-29 14:01:12,623 - INFO - 127.0.0.1 - - [29/Jun/2023 14:01:12] "GET /getUserTeams/6 HTTP/1.1" 200 -
+2023-06-29 14:01:13,312 - INFO - 127.0.0.1 - - [29/Jun/2023 14:01:13] "GET /user/6 HTTP/1.1" 200 -
+2023-06-29 14:01:13,553 - INFO - 127.0.0.1 - - [29/Jun/2023 14:01:13] "GET /user/6 HTTP/1.1" 200 -
+2023-06-29 14:01:13,620 - INFO - 127.0.0.1 - - [29/Jun/2023 14:01:13] "GET /getUserTeams/6 HTTP/1.1" 200 -
+2023-06-29 14:01:13,800 - INFO - 127.0.0.1 - - [29/Jun/2023 14:01:13] "GET /getUserTeams/6 HTTP/1.1" 200 -
+2023-06-29 14:01:14,207 - INFO - 127.0.0.1 - - [29/Jun/2023 14:01:14] "GET /user/6 HTTP/1.1" 200 -
+2023-06-29 14:01:14,522 - INFO - 127.0.0.1 - - [29/Jun/2023 14:01:14] "GET /user/6 HTTP/1.1" 200 -
+2023-06-29 14:01:15,312 - INFO - 127.0.0.1 - - [29/Jun/2023 14:01:15] "OPTIONS /getUserTeams/6 HTTP/1.1" 200 -
+2023-06-29 14:01:15,313 - INFO - 127.0.0.1 - - [29/Jun/2023 14:01:15] "OPTIONS /getUserTeams/6 HTTP/1.1" 200 -
+2023-06-29 14:01:15,580 - INFO - 127.0.0.1 - - [29/Jun/2023 14:01:15] "GET /getUserTeams/6 HTTP/1.1" 200 -
+2023-06-29 14:01:15,628 - INFO - 127.0.0.1 - - [29/Jun/2023 14:01:15] "GET /getUserTeams/6 HTTP/1.1" 200 -
+2023-06-29 14:01:15,886 - INFO - 127.0.0.1 - - [29/Jun/2023 14:01:15] "GET /user/6 HTTP/1.1" 200 -
+2023-06-29 14:01:16,028 - INFO - 127.0.0.1 - - [29/Jun/2023 14:01:16] "GET /user/6 HTTP/1.1" 200 -
+2023-06-29 14:01:21,390 - INFO - 127.0.0.1 - - [29/Jun/2023 14:01:21] "OPTIONS /getUserTeams/6 HTTP/1.1" 200 -
+2023-06-29 14:01:21,705 - INFO - 127.0.0.1 - - [29/Jun/2023 14:01:21] "OPTIONS /getUserTeams/6 HTTP/1.1" 200 -
+2023-06-29 14:01:21,712 - INFO - 127.0.0.1 - - [29/Jun/2023 14:01:21] "GET /getUserTeams/6 HTTP/1.1" 200 -
+2023-06-29 14:01:22,022 - INFO - 127.0.0.1 - - [29/Jun/2023 14:01:22] "GET /getUserTeams/6 HTTP/1.1" 200 -
+2023-06-29 14:01:22,362 - INFO - 127.0.0.1 - - [29/Jun/2023 14:01:22] "GET /user/6 HTTP/1.1" 200 -
+2023-06-29 14:01:22,610 - INFO - 127.0.0.1 - - [29/Jun/2023 14:01:22] "GET /user/6 HTTP/1.1" 200 -
+2023-06-29 14:01:22,736 - INFO - 127.0.0.1 - - [29/Jun/2023 14:01:22] "GET /getUserTeams/6 HTTP/1.1" 200 -
+2023-06-29 14:01:23,051 - INFO - 127.0.0.1 - - [29/Jun/2023 14:01:23] "GET /getUserTeams/6 HTTP/1.1" 200 -
+2023-06-29 14:01:24,167 - INFO - 127.0.0.1 - - [29/Jun/2023 14:01:24] "GET /getTeamMembers/1 HTTP/1.1" 200 -
+2023-06-29 14:01:24,167 - INFO - 127.0.0.1 - - [29/Jun/2023 14:01:24] "GET /tasklists/1 HTTP/1.1" 200 -
+2023-06-29 14:01:24,422 - INFO - 127.0.0.1 - - [29/Jun/2023 14:01:24] "GET /getTeamMembers/1 HTTP/1.1" 200 -
+2023-06-29 14:01:24,483 - INFO - 127.0.0.1 - - [29/Jun/2023 14:01:24] "GET /tasklists/1 HTTP/1.1" 200 -
+2023-06-29 14:02:25,446 - INFO - 127.0.0.1 - - [29/Jun/2023 14:02:25] "GET /getTeamScript/1 HTTP/1.1" 200 -
+2023-06-29 14:02:25,695 - INFO - 127.0.0.1 - - [29/Jun/2023 14:02:25] "GET /getTeamScript/1 HTTP/1.1" 200 -
+2023-06-29 14:02:25,752 - INFO - 127.0.0.1 - - [29/Jun/2023 14:02:25] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-29 14:02:25,784 - INFO - 127.0.0.1 - - [29/Jun/2023 14:02:25] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-29 14:02:25,784 - INFO - 127.0.0.1 - - [29/Jun/2023 14:02:25] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-29 14:02:25,785 - INFO - 127.0.0.1 - - [29/Jun/2023 14:02:25] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-29 14:02:25,786 - INFO - 127.0.0.1 - - [29/Jun/2023 14:02:25] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-29 14:02:26,000 - INFO - 127.0.0.1 - - [29/Jun/2023 14:02:26] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-29 14:02:26,063 - INFO - 127.0.0.1 - - [29/Jun/2023 14:02:26] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-29 14:02:26,066 - INFO - 127.0.0.1 - - [29/Jun/2023 14:02:26] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-29 14:02:26,094 - INFO - 127.0.0.1 - - [29/Jun/2023 14:02:26] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-29 14:02:26,095 - INFO - 127.0.0.1 - - [29/Jun/2023 14:02:26] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-29 14:02:26,096 - INFO - 127.0.0.1 - - [29/Jun/2023 14:02:26] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-06-29 14:02:26,101 - INFO - 127.0.0.1 - - [29/Jun/2023 14:02:26] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-29 14:02:26,101 - INFO - 127.0.0.1 - - [29/Jun/2023 14:02:26] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-29 14:02:26,102 - INFO - 127.0.0.1 - - [29/Jun/2023 14:02:26] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-29 14:02:26,102 - INFO - 127.0.0.1 - - [29/Jun/2023 14:02:26] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-29 14:02:26,312 - INFO - 127.0.0.1 - - [29/Jun/2023 14:02:26] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-29 14:02:26,375 - INFO - 127.0.0.1 - - [29/Jun/2023 14:02:26] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-29 14:02:26,409 - INFO - 127.0.0.1 - - [29/Jun/2023 14:02:26] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-29 14:02:26,410 - INFO - 127.0.0.1 - - [29/Jun/2023 14:02:26] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-29 14:02:26,410 - INFO - 127.0.0.1 - - [29/Jun/2023 14:02:26] "POST /searchTestReport HTTP/1.1" 200 -
+2023-06-29 14:02:41,350 - INFO - 127.0.0.1 - - [29/Jun/2023 14:02:41] "OPTIONS /runTestEvents HTTP/1.1" 200 -
+2023-06-29 14:02:41,368 - INFO - Executing: C:\Python311\Lib\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser chrome --output json
+2023-06-29 14:02:49,440 - INFO - 127.0.0.1 - - [29/Jun/2023 14:02:49] "[35m[1mPOST /runTestEvents HTTP/1.1[0m" 201 -
+2023-06-29 14:02:49,497 - INFO - 127.0.0.1 - - [29/Jun/2023 14:02:49] "GET /test-report/2 HTTP/1.1" 200 -
+2023-06-29 14:02:49,814 - INFO - 127.0.0.1 - - [29/Jun/2023 14:02:49] "GET /test-report/2 HTTP/1.1" 200 -
+2023-06-29 14:03:39,528 - INFO -  * Detected change in 'D:\\final project\\dissertation-UI-test-platform\\backend\\app\\test_cases.py', reloading
+2023-06-29 14:03:39,636 - INFO -  * Restarting with stat
+2023-06-29 14:03:40,295 - WARNING -  * Debugger is active!
+2023-06-29 14:03:40,297 - INFO -  * Debugger PIN: 830-819-996
+2023-06-29 14:03:51,595 - INFO -  * Detected change in 'D:\\final project\\dissertation-UI-test-platform\\backend\\app\\test_cases.py', reloading
+2023-06-29 14:03:51,672 - INFO -  * Restarting with stat
+2023-06-29 14:03:52,306 - WARNING -  * Debugger is active!
+2023-06-29 14:03:52,308 - INFO -  * Debugger PIN: 830-819-996
+2023-06-29 14:04:08,154 - INFO - 127.0.0.1 - - [29/Jun/2023 14:04:08] "OPTIONS /runTestEvents HTTP/1.1" 200 -
+2023-06-29 14:04:08,497 - INFO - Executing: C:\Python311\Lib\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser chrome --output json
+2023-06-29 14:04:18,526 - INFO - 127.0.0.1 - - [29/Jun/2023 14:04:18] "[35m[1mPOST /runTestEvents HTTP/1.1[0m" 201 -
+2023-06-29 14:04:18,570 - INFO - 127.0.0.1 - - [29/Jun/2023 14:04:18] "GET /test-report/2 HTTP/1.1" 200 -
+2023-06-29 14:04:18,881 - INFO - 127.0.0.1 - - [29/Jun/2023 14:04:18] "GET /test-report/2 HTTP/1.1" 200 -
+2023-06-29 14:04:43,616 - INFO -  * Detected change in 'D:\\final project\\dissertation-UI-test-platform\\backend\\app\\test_cases.py', reloading
+2023-06-29 14:04:43,718 - INFO -  * Restarting with stat
+2023-06-29 14:04:44,355 - WARNING -  * Debugger is active!
+2023-06-29 14:04:44,356 - INFO -  * Debugger PIN: 830-819-996
+2023-06-29 14:04:55,451 - INFO - 127.0.0.1 - - [29/Jun/2023 14:04:55] "OPTIONS /runTestEvents HTTP/1.1" 200 -
+2023-06-29 14:04:55,796 - INFO - Executing: C:\Python311\Lib\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser chrome --output json
+2023-06-29 14:05:05,791 - INFO - 127.0.0.1 - - [29/Jun/2023 14:05:05] "[35m[1mPOST /runTestEvents HTTP/1.1[0m" 201 -
+2023-06-29 14:05:05,836 - INFO - 127.0.0.1 - - [29/Jun/2023 14:05:05] "GET /test-report/2 HTTP/1.1" 200 -
+2023-06-29 14:05:06,147 - INFO - 127.0.0.1 - - [29/Jun/2023 14:05:06] "GET /test-report/2 HTTP/1.1" 200 -
+2023-06-29 14:06:48,991 - INFO - 127.0.0.1 - - [29/Jun/2023 14:06:48] "OPTIONS /saveTestEvents HTTP/1.1" 200 -
+2023-06-29 14:06:49,313 - INFO - 127.0.0.1 - - [29/Jun/2023 14:06:49] "[35m[1mPOST /saveTestEvents HTTP/1.1[0m" 201 -
+2023-06-29 14:06:53,327 - INFO - 127.0.0.1 - - [29/Jun/2023 14:06:53] "OPTIONS /runTestEvents HTTP/1.1" 200 -
+2023-06-29 14:06:53,345 - INFO - Executing: C:\Python311\Lib\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser chrome --output json
+2023-06-29 14:07:03,323 - INFO - 127.0.0.1 - - [29/Jun/2023 14:07:03] "[35m[1mPOST /runTestEvents HTTP/1.1[0m" 201 -
+2023-06-29 14:07:03,649 - INFO - 127.0.0.1 - - [29/Jun/2023 14:07:03] "GET /test-report/2 HTTP/1.1" 200 -
+2023-06-29 14:07:03,914 - INFO - 127.0.0.1 - - [29/Jun/2023 14:07:03] "GET /test-report/2 HTTP/1.1" 200 -
+2023-06-29 14:07:21,559 - INFO - 127.0.0.1 - - [29/Jun/2023 14:07:21] "OPTIONS /runTestEvents HTTP/1.1" 200 -
+2023-06-29 14:07:21,877 - INFO - Executing: C:\Python311\Lib\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser chrome --output json
+2023-06-29 14:07:31,878 - INFO - 127.0.0.1 - - [29/Jun/2023 14:07:31] "[35m[1mPOST /runTestEvents HTTP/1.1[0m" 201 -
+2023-06-29 14:07:32,205 - INFO - 127.0.0.1 - - [29/Jun/2023 14:07:32] "GET /test-report/2 HTTP/1.1" 200 -
+2023-06-29 14:07:32,468 - INFO - 127.0.0.1 - - [29/Jun/2023 14:07:32] "GET /test-report/2 HTTP/1.1" 200 -
+2023-06-29 14:09:47,679 - INFO -  * Detected change in 'D:\\final project\\dissertation-UI-test-platform\\backend\\app\\test_cases.py', reloading
+2023-06-29 14:09:47,785 - INFO -  * Restarting with stat
+2023-06-29 14:09:48,551 - WARNING -  * Debugger is active!
+2023-06-29 14:09:48,553 - INFO -  * Debugger PIN: 830-819-996
+2023-06-29 14:10:03,028 - INFO - 127.0.0.1 - - [29/Jun/2023 14:10:03] "OPTIONS /runTestEvents HTTP/1.1" 200 -
+2023-06-29 14:10:03,370 - INFO - Executing: C:\Python311\Lib\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser chrome --output json
+2023-06-29 14:10:13,438 - INFO - 127.0.0.1 - - [29/Jun/2023 14:10:13] "[35m[1mPOST /runTestEvents HTTP/1.1[0m" 201 -
+2023-06-29 14:10:13,488 - INFO - 127.0.0.1 - - [29/Jun/2023 14:10:13] "GET /test-report/2 HTTP/1.1" 200 -
+2023-06-29 14:10:13,807 - INFO - 127.0.0.1 - - [29/Jun/2023 14:10:13] "GET /test-report/2 HTTP/1.1" 200 -
+2023-06-29 14:11:00,263 - INFO - 127.0.0.1 - - [29/Jun/2023 14:11:00] "OPTIONS /runTestEvents HTTP/1.1" 200 -
+2023-06-29 14:11:00,280 - INFO - Executing: C:\Python311\Lib\site-packages\selenium\webdriver\common\windows\selenium-manager.exe --browser chrome --output json
+2023-06-29 14:11:06,203 - INFO - 127.0.0.1 - - [29/Jun/2023 14:11:06] "[31m[1mPOST /runTestEvents HTTP/1.1[0m" 400 -
+2023-07-01 14:19:22,524 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.65.130.253:5000
+2023-07-01 14:19:22,524 - INFO - [33mPress CTRL+C to quit[0m
+2023-07-01 14:19:22,531 - INFO -  * Restarting with stat
+2023-07-01 14:19:23,330 - WARNING -  * Debugger is active!
+2023-07-01 14:19:23,335 - INFO -  * Debugger PIN: 830-819-996
+2023-07-01 16:38:01,461 - INFO - 127.0.0.1 - - [01/Jul/2023 16:38:01] "OPTIONS /login HTTP/1.1" 200 -
+2023-07-01 16:38:01,886 - INFO - 127.0.0.1 - - [01/Jul/2023 16:38:01] "POST /login HTTP/1.1" 200 -
+2023-07-01 16:38:01,953 - INFO - 127.0.0.1 - - [01/Jul/2023 16:38:01] "OPTIONS /getUserTeams/6 HTTP/1.1" 200 -
+2023-07-01 16:38:02,267 - INFO - 127.0.0.1 - - [01/Jul/2023 16:38:02] "OPTIONS /getUserTeams/6 HTTP/1.1" 200 -
+2023-07-01 16:38:02,280 - INFO - 127.0.0.1 - - [01/Jul/2023 16:38:02] "GET /getUserTeams/6 HTTP/1.1" 200 -
+2023-07-01 16:38:02,597 - INFO - 127.0.0.1 - - [01/Jul/2023 16:38:02] "GET /getUserTeams/6 HTTP/1.1" 200 -
+2023-07-01 16:38:03,556 - INFO - 127.0.0.1 - - [01/Jul/2023 16:38:03] "GET /tasklists/1 HTTP/1.1" 200 -
+2023-07-01 16:38:03,580 - INFO - 127.0.0.1 - - [01/Jul/2023 16:38:03] "GET /getTeamMembers/1 HTTP/1.1" 200 -
+2023-07-01 16:38:03,811 - INFO - 127.0.0.1 - - [01/Jul/2023 16:38:03] "GET /tasklists/1 HTTP/1.1" 200 -
+2023-07-01 16:38:03,869 - INFO - 127.0.0.1 - - [01/Jul/2023 16:38:03] "GET /getTeamMembers/1 HTTP/1.1" 200 -
+2023-07-01 16:38:04,395 - INFO - 127.0.0.1 - - [01/Jul/2023 16:38:04] "GET /getTeamScript/1 HTTP/1.1" 200 -
+2023-07-01 16:38:04,711 - INFO - 127.0.0.1 - - [01/Jul/2023 16:38:04] "GET /getTeamScript/1 HTTP/1.1" 200 -
+2023-07-01 16:38:04,735 - INFO - 127.0.0.1 - - [01/Jul/2023 16:38:04] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-07-01 16:38:04,736 - INFO - 127.0.0.1 - - [01/Jul/2023 16:38:04] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-07-01 16:38:04,736 - INFO - 127.0.0.1 - - [01/Jul/2023 16:38:04] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-07-01 16:38:04,737 - INFO - 127.0.0.1 - - [01/Jul/2023 16:38:04] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-07-01 16:38:04,738 - INFO - 127.0.0.1 - - [01/Jul/2023 16:38:04] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-07-01 16:38:04,750 - INFO - 127.0.0.1 - - [01/Jul/2023 16:38:04] "POST /searchTestReport HTTP/1.1" 200 -
+2023-07-01 16:38:05,016 - INFO - 127.0.0.1 - - [01/Jul/2023 16:38:05] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-07-01 16:38:05,047 - INFO - 127.0.0.1 - - [01/Jul/2023 16:38:05] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-07-01 16:38:05,049 - INFO - 127.0.0.1 - - [01/Jul/2023 16:38:05] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-07-01 16:38:05,050 - INFO - 127.0.0.1 - - [01/Jul/2023 16:38:05] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-07-01 16:38:05,050 - INFO - 127.0.0.1 - - [01/Jul/2023 16:38:05] "OPTIONS /searchTestReport HTTP/1.1" 200 -
+2023-07-01 16:38:05,059 - INFO - 127.0.0.1 - - [01/Jul/2023 16:38:05] "POST /searchTestReport HTTP/1.1" 200 -
+2023-07-01 16:38:05,059 - INFO - 127.0.0.1 - - [01/Jul/2023 16:38:05] "POST /searchTestReport HTTP/1.1" 200 -
+2023-07-01 16:38:05,062 - INFO - 127.0.0.1 - - [01/Jul/2023 16:38:05] "POST /searchTestReport HTTP/1.1" 200 -
+2023-07-01 16:38:05,062 - INFO - 127.0.0.1 - - [01/Jul/2023 16:38:05] "POST /searchTestReport HTTP/1.1" 200 -
+2023-07-01 16:38:05,330 - INFO - 127.0.0.1 - - [01/Jul/2023 16:38:05] "POST /searchTestReport HTTP/1.1" 200 -
+2023-07-01 16:38:05,377 - INFO - 127.0.0.1 - - [01/Jul/2023 16:38:05] "POST /searchTestReport HTTP/1.1" 200 -
+2023-07-01 16:38:05,377 - INFO - 127.0.0.1 - - [01/Jul/2023 16:38:05] "POST /searchTestReport HTTP/1.1" 200 -
+2023-07-01 16:38:05,378 - INFO - 127.0.0.1 - - [01/Jul/2023 16:38:05] "POST /searchTestReport HTTP/1.1" 200 -
+2023-07-01 16:38:05,378 - INFO - 127.0.0.1 - - [01/Jul/2023 16:38:05] "POST /searchTestReport HTTP/1.1" 200 -
